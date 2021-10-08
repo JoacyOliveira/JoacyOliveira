@@ -1,7 +1,7 @@
 <h2>Meu nome é Joacy Oliveira!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/joacyoliveira/)
+[![Linkedin: Joacy](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/joacyoliveira/)
 ![GitHub followers](https://img.shields.io/github/followers/JoacyOliveira?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://joacy-portfolio.herokuapp.com/)
 
